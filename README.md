@@ -15,8 +15,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Screenshot
 
-![](https://raw.githubusercontent.com/Mohamed-Waled/3-Column-Preview-Card-Component/dc35d7cb42e7b252a114bfc5ec4b69a2ba31ee71/images/Screenshot%202022-03-17%20at%2015-08-53%20Frontend%20Mentor%203-column%20preview%20card%20component.png)
-![](https://raw.githubusercontent.com/Mohamed-Waled/3-Column-Preview-Card-Component/dc35d7cb42e7b252a114bfc5ec4b69a2ba31ee71/images/Screenshot%202022-03-17%20at%2015-09-03%20Frontend%20Mentor%203-column%20preview%20card%20component.png)
+![](https://raw.githubusercontent.com/Mohamed-Waled/3-Column-Preview-Card-Component/main/images/Screenshot%202022-03-17%20at%2015-08-53%20Frontend%20Mentor%203-column%20preview%20card%20component.png)
+![](https://raw.githubusercontent.com/Mohamed-Waled/3-Column-Preview-Card-Component/main/images/Screenshot%202022-03-17%20at%2015-09-03%20Frontend%20Mentor%203-column%20preview%20card%20component.png)
 
 ### Links
 
